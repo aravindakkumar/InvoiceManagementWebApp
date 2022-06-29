@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box; 
+  margin: 0;
+}
+
+
+
+/******************HEAD AND SEC1*********************/
+.header {
+  background-color:#2d4250;
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+
+.sec1 {
+  background-color: rgba(40, 61, 74, 255);
+  display: flex;
+  justify-content: space-around;
+  padding: 1%;
+}
+
+.fetch{
+  background-color: rgb(40, 61, 74, 255); 
+}
+
+/****************************************************/
+
+.buttons{
+  display: flex;
+  justify-content: space-between;
+}
+
+/************************************************/
+.footer{
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #2d4250;
+}
+
